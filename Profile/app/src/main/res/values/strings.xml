@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="birthDate">Date of birth</string>
+    <string name="maleRadio">male</string>
+    <string name="femaleRadio">female</string>
+    <string name="otherName">other</string>
+    <string name="optionsButton">Options</string>
+    <string name="bottomList">Save your Profile?</string>
+
+
+    <string name="profilesBottomList">Profiles</string>
+    <string name="addBottomList">Add</string>
+    <string name="cancelBottomList">Cancel</string>
+
+    <string-array name="nationalitySpinner">
+        <item>British</item>
+        <item>Scottish</item>
+        <item>Russian</item>
+        <item>Lithuanian</item>
+        <item>Ukrainian</item>
+        <item>Bulgarian</item>
+    </string-array>
+</resources>

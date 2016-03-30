@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profilesBottomScreen"
+        android:title="@string/profilesBottomList"
+        android:icon="@android:drawable/ic_menu_more" />
+    <item
+        android:id="@+id/addBottomScreen"
+        android:title="@string/addBottomList"
+        android:icon="@android:drawable/ic_menu_save" />
+    <item
+        android:id="@+id/cancelBottomScreen"
+        android:title="@string/cancelBottomList"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel" />
+</menu>
